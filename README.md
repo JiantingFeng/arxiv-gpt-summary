@@ -13,7 +13,7 @@ To run the script, you need to have the following packages installed:
 You can install these dependencies using pip:
 
 ```
-pip install arxiv langchain tqdm
+pip install -r requirements.txt
 ```
 
 Additionally, you need to have an OpenAI API key to use the GPT-4 model. Set the key as an environment variable `OPENAI_API_KEY`.
